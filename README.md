@@ -1,2 +1,3 @@
-# Cake-shop-website
-Website with Frontend. No backend included.
+# Cakeshop
+
+This is a cake-shop website.
