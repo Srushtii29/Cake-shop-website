@@ -1,0 +1,32 @@
+body{
+    background-color:white;
+}
+.b_img{
+    height :70%;
+    opacity :1;
+}
+footer{
+    margin-top: 8%;
+    padding: 10%;
+    overflow-x: hidden;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid burlywood;
+}
+.animated{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.mob{
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+.link-secondary{
+    color:rgb(180, 176, 176);
+}
+.link-light{
+    color:rgb(180, 176, 176);
+}

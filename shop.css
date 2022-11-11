@@ -1,0 +1,18 @@
+body{
+    background-color:white;
+}
+.b_img{
+    height :100%;
+    opacity :1;
+}
+/* Large rounded green border */
+.new{
+    border: 8px solid black;
+    border-radius: 5px;
+}
+.link-secondary{
+    color:rgb(180, 176, 176);
+}
+.link-light{
+    color:rgb(180, 176, 176);
+}
